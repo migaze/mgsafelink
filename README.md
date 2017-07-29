@@ -1,0 +1,2 @@
+# mgsafelink
+safelink
